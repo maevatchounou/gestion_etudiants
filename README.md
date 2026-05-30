@@ -31,7 +31,7 @@ cd gestion_etudiants
 Exécutez le script SQL fourni dans votre client MySQL :
 
 ```bash
-mysql -u root -p < database/schema.sql
+mysql -u root -p < database/gestion_etudiants.sql
 ```
 
 ### 3. Configurer la connexion
