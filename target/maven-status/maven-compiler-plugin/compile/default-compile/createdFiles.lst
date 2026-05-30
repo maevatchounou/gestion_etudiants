@@ -1,0 +1,4 @@
+com/dess/app/gestion_etudiants/config/DBConnection.class
+com/dess/app/gestion_etudiants/dao/EtudiantDAO.class
+com/dess/app/gestion_etudiants/model/Etudiant.class
+com/dess/app/gestion_etudiants/Main.class
